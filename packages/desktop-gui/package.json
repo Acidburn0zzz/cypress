@@ -29,7 +29,7 @@
     "font-awesome": "4.7.0",
     "gravatar": "1.8.0",
     "human-interval": "0.1.6",
-    "lodash": "4.17.15",
+    "lodash": "4.17.21",
     "markdown-it": "8.4.2",
     "mobx": "5.11.0",
     "mobx-react": "5.4.3",
